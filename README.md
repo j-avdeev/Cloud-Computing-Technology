@@ -57,3 +57,7 @@ Total:            100%
 | ---------------------------------------- | --- | --- | --- |
 | Soft Deadline (50% reduction if missed)  | .. | .. | .. |
 | Hard Deadline (100% reduction if missed) | .. | .. | .. | 
+
+
+Results Table:
+https://docs.google.com/spreadsheets/d/1ndsS0yWOzOXhIr2P_w-Mo7weMWg3imy_oJdqukGr0eE/edit?usp=sharing
