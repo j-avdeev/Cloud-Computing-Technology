@@ -53,10 +53,10 @@ Total:            100%
 
 ### Assignment Deadlines 'Autumn 2020
 
-|                                          |  1  | 2 | 3 | 
+|                                          |  1 AWS-Amplify  | 2 | 3 | 
 | ---------------------------------------- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | .. | .. | .. |
-| Hard Deadline (100% reduction if missed) | .. | .. | .. | 
+| Soft Deadline (50% reduction if missed)  | 03.10.2020 | .. | .. |
+| Hard Deadline (100% reduction if missed) | 10.10.2020 | .. | .. | 
 
 
 Results Table:
