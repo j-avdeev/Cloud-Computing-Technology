@@ -38,8 +38,8 @@ After completing the course, the students should be able to:
 - work with containerization tools (Docker).
 
 ## References
-CS349D: Cloud Computing Technology, Stanford http://web.stanford.edu/class/cs349d/
-Intro to Cloud Computing https://www.udacity.com/course/intro-to-cloud-computing--ud080
+- CS349D: Cloud Computing Technology, Stanford http://web.stanford.edu/class/cs349d/
+- Intro to Cloud Computing https://www.udacity.com/course/intro-to-cloud-computing--ud080
 
 AWS Training and Certification https://aws.amazon.com/training/?nc1=h_ls
 
