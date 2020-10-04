@@ -43,10 +43,8 @@ After completing the course, the students should be able to:
 
 AWS Training and Certification https://aws.amazon.com/training/?nc1=h_ls
 
-Roadmap to becoming a web developer in 2020 https://github.com/kamranahmedse/developer-roadmap
-
 ## Textbooks:
-
+- Jurg van Vliet, Flavia Paganelli: Programming Amazon EC2: Survive your Success https://www.amazon.com/Programming-Amazon-EC2-Survive-Success/dp/1449393683
 
 ### Course Evaluation
 ```
@@ -58,10 +56,10 @@ Total:            100%
 
 ### Assignment Deadlines 'Autumn 2020
 
-|                                          |  1 AWS-Amplify  | 2 | 3 | 
+|                                          |  1 AWS-Amplify  | 2 AWS-EC2 | 3 | 
 | ---------------------------------------- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | 03.10.2020 | .. | .. |
-| Hard Deadline (100% reduction if missed) | 10.10.2020 | .. | .. | 
+| Soft Deadline (50% reduction if missed)  | 03.10.2020 | 17.10.2020 | .. |
+| Hard Deadline (100% reduction if missed) | 10.10.2020 | 24.10.2020 | .. | 
 
 
 Results Table:
