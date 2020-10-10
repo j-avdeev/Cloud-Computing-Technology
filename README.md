@@ -56,10 +56,10 @@ Total:            100%
 
 ### Assignment Deadlines 'Autumn 2020
 
-|                                          |  1 AWS-Amplify  | 2 AWS-EC2 | 3 | 
+|                                          |  1 AWS-Amplify  | 2 AWS-EC2 | 3 AWS-Serverless| 
 | ---------------------------------------- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | 03.10.2020 | 17.10.2020 | .. |
-| Hard Deadline (100% reduction if missed) | 10.10.2020 | 24.10.2020 | .. | 
+| Soft Deadline (50% reduction if missed)  | 03.10.2020 | 17.10.2020 | 17.10.2020 |
+| Hard Deadline (100% reduction if missed) | 10.10.2020 | 24.10.2020 | 07.11.2020 | 
 
 
 Results Table:
