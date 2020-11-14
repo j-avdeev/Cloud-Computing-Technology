@@ -43,7 +43,7 @@ After completing the course, the students should be able to:
 - AWS Amplify | [2020'RUS](https://www.youtube.com/watch?v=FdMv__45PK0)
 - CCT Video 02: AWS S3 EC2 | [2020'RUS](https://www.youtube.com/watch?v=xx1YM2gUEco)
 - CCT Video 03: AWS Serverless | [2020'RUS](https://www.youtube.com/watch?v=3TbMhwRayDM)
-- CCT Video 04: AWS RDS DMS | [2020'RUS](https://www.youtube.com/watch?v=GH7Nq2W4Yho)
+- CCT Video 04: AWS RDS DMS | [2020'RUS](https://youtu.be/olplmY8d74Y)
 - CCT Video 05: GoogleCloud-Azure | [2020'RUS](https://www.youtube.com/watch?v=sgNpoRmNfsU)
 - CCT Video 06: Alexa skill | [2020'RUS](https://www.youtube.com/watch?v=MUB_ISYfEXU)
 
